@@ -13,3 +13,5 @@ terraform apply
 az login --use-device-code
 
 az account show
+
+az account list - list the Subscriptions associated with the account
